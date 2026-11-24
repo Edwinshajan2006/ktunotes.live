@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img src="./profile-banner.svg" width="100%" alt="KTUNOTES.LIVE project banner" />
+
+</div>
+
+<div align="center">
+
 ### A community built for students, by students
 
 [![Next.js](https://img.shields.io/badge/Framework-Next.js-111827?style=flat-square&logo=nextdotjs)](https://nextjs.org/)
